@@ -3,7 +3,7 @@ import java.util.concurrent.Executors;
 
 public class ExecutorExample
 {
-	public static void main(String[] args)
+	static void main(String[] args)
 	{
 		ExecutorService executor = Executors.newFixedThreadPool(3);
 

@@ -51,7 +51,7 @@ public class OptionalExample
 		return Optional.empty();
 	}
 
-	public static void main(String[] args)
+	static void main(String[] args)
 	{
 
 		// ------------------------------------------------
